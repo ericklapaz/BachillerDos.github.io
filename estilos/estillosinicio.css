@@ -1,0 +1,28 @@
+#imagen1{
+    float: right;
+    width: 25%;
+    
+    
+}
+#imagen2{
+    float: left;
+    width: 25%;
+    
+}
+#titulo{
+  text-align: center;
+    background-color: aquamarine;
+        font-family:sans-serif;
+}
+#datos{
+    text-align: justify;
+    text-decoration-color: blue
+}
+#textotit{
+    text-align: center;
+    font-family: cursive;
+    background-color: azure
+}
+#p{
+    text-align: left;
+}

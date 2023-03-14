@@ -1,0 +1,36 @@
+#tit{
+    text-align: center;
+    font-family: fantasy;
+
+}
+#masivo{
+    float: center;
+    width: 500px;
+    border: 100px;
+}
+
+#mama{
+    text-align: center;
+font-family: monospace;
+    
+}
+#didi{
+        text-align: center;
+font-family: monospace;
+}
+#imagen2{
+        float: center;
+    width: 500px;
+    border: 100px;
+}
+body{
+    background-color: cadetblue;
+}
+#tit{
+   text-align: center;
+    background-color: azure;
+    
+}
+#masico{
+    float: none;
+}
